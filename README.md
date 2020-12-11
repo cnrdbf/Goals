@@ -1,5 +1,5 @@
 # Goals
-This is a list of the career paths/companies I would love to work for.
+**This is a list of the career paths/companies I would love to work for:**
 - Apple
 - Microsoft
 - Google
